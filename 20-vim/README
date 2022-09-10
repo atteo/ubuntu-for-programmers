@@ -1,0 +1,4 @@
+ViM configuration:
+- enable true color
+- use vim-one color theme
+- automatic installation for multiple plugins, see .vimrc for details

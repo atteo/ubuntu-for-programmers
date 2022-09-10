@@ -1,0 +1,5 @@
+Midnight Commander confinguration:
+- exit mc quicker using ctrl-q
+- don't display hint bar
+- display permission and owner in panels
+- disable mini status

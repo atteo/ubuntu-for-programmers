@@ -1,0 +1,6 @@
+Nerd font support:
+- download Nerd font ttf files and install them
+https://nerdfonts.com/
+- add fontconfig configuration for commons fonts to prefer symbols from Nerd font
+Configuration file taken from https://github.com/ryanoasis/nerd-fonts/blob/master/10-nerd-font-symbols.conf
+- add support for Hack font.
